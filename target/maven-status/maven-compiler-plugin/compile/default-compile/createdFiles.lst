@@ -1,0 +1,12 @@
+com\studentmanagement\LoginServlet.class
+DeleteStudent.class
+InsertStudent.class
+com\studentmanagement\UpdateStudentServlet.class
+com\studentmanagement\ViewStudentServlet.class
+com\studentmanagement\AddStudentServlet.class
+UpdateStudent.class
+TestConnection.class
+com\studentmanagement\DBConnection.class
+ReadStudent.class
+com\studentmanagement\DeleteStudentServlet.class
+TestDB.class
