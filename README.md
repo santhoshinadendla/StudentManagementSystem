@@ -33,8 +33,8 @@ Fields:
 ## Project Structure
 src/
  |------main/
-         |----java/
-         |------Webapp/
+         ----java/
+         ------Webapp/
 ## How to Run
 Import the project into Eclipse
 Configure Apache Tomcat
